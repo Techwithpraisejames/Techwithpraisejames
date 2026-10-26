@@ -11,7 +11,7 @@ My work covers LLMs, retrieval-augmented generation (RAG), AI agents, machine le
 
 **Languages:** Python, SQL
 
-**Tools & Frameworks:** Flask, Docker, Git, GitHub, Linux, REST APIs
+**Tools & Frameworks:** Docker, Git, GitHub, Linux, REST APIs
 
 **AI/ML:** LLMs, RAG, Vector Databases, AI Agents, MLOps
 
@@ -38,7 +38,5 @@ My work covers LLMs, retrieval-augmented generation (RAG), AI agents, machine le
 [YouTube](https://www.youtube.com/@techwithpraisejames)
 
 ## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Techwithpraisejames&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Techwithpraisejames&layout=compact)
